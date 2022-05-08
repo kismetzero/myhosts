@@ -3,14 +3,14 @@
 [Back](README.md)
 
 ~~~
-# 微软授权验证(官方IP+反向代理)
+# 寰蒋鎺堟潈楠岃瘉(瀹樻柟IP+鍙嶅悜浠ｇ悊)
 117.28.245.66 licensing.mp.microsoft.com
 
-# 微软账户登陆-1
+# 寰蒋璐︽埛鐧婚檰-1
 13.107.213.49 logincdn.msauth.net
 13.107.213.49 acctcdn.msauth.net
 
-# 微软账户登陆-2
+# 寰蒋璐︽埛鐧婚檰-2
 40.126.35.129 login.live.com
 
 ***.***.*** account.microsoft.com
