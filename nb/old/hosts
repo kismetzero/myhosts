@@ -1,0 +1,80 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+# 61.184.116.92 download.visualstudio.microsoft.com
+# 23.101.207.250 services.mtps.microsoft.com
+# 23.54.109.197 store.steampowered.com
+# 23.76.83.13 www.rockstargames.com
+# 184.73.51.75 zh-cn.socialclub.rockstargames.com
+# 52.74.223.119 github.com
+
+# Minecraft 全港8012 {
+104.19.146.132 www.curseforge.com
+142.250.199.78 apis.google.com
+35.208.29.238 yieldmo.com
+35.192.120.101 rubiconproject.com
+15.197.165.128 pubmatic.com
+35.244.159.8 addkt-d.openx.net
+151.101.77.194 confiant-integrations.global.ssl.fastly.net
+13.224.160.53 lngtd.com
+54.192.19.23 media.forgecdn.net
+170.76.128.226 casalemedia.com
+52.220.242.234 sync-amz.ads.yieldmo.com
+182.161.73.136 gum.criteo.com
+103.231.98.193 hbopenbid.pubmatic.com
+103.43.90.117 ib.adnxs.com
+182.161.73.145 bidder.criteo.com
+199.232.192.193 imgur.com
+0.0.0.0 amgdgt.com
+0.0.0.0 amazon-adsystem.com
+182.161.73.144 3pd.criteo.com
+
+52.77.30.179 bcp.crwdcntrl.net
+# Minecraft 全港8012 }
+
+# 战1 港8013
+42.99.128.168 origin-a.akamaihd.net
+# 战1 日8004
+104.91.69.138 origin-a.akamaihd.net
+# 橘子 港8013
+42.99.128.155 origin-a.akamaihd.net
+# 战5 港8010
+42.99.128.161 origin-a.akamaihd.net
+# 战5 亚日8004
+104.91.69.138 origin-a.akamaihd.net
+
+# Steam 港8010 {
+23.36.252.78 store.steampowered.com #XC
+172.64.150.233 store.cloudflare.steamstatic.com #XC
+23.77.27.52 steamcommunity.com #XC
+172.217.160.164 www.google.com #XC
+142.250.195.19 www.chromestatus.com #XC
+
+142.250.66.67 recaptcha.net #XC
+# Steam 港8010 }
+
+# 微软商店 港8008 {
+104.18.40.133 www.crunchyroll.com #XC
+172.64.155.15 secure.crunchyroll.com #XC
+
+23.66.4.63 www.xbox.com #XC
+# 微软商店 港8008 }
