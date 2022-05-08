@@ -1,0 +1,42 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+42.99.128.161 origin-a.akamaihd.net #XC
+
+23.42.182.65 store.steampowered.com #steam
+23.77.27.52 steamcommunity.com #
+172.67.172.198 steamstat.us #
+# valve.vo.llnwd.net
+# cdn.steampowered.com
+# cdn.store.steampowered.com
+# cdn.steamcommunity.com
+# media.steampowered.com
+
+23.77.215.82 www.xbox.com #xbox
+223.119.203.105 account.xbox.com #
+13.107.42.15 support.xbox.com #
+# assets1.xboxlive.com
+# assets2.xboxlive.com
+# dlassets.xboxlive.com
+# download.xbox.com
+# download.xboxlive.com
+
+23.42.189.109 account.microsoft.com #
